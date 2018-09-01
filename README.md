@@ -2,7 +2,7 @@
 This repository contains "RGB", a game made by "Yusuf El-Nady", mainly for the GDWC.
 
 RGB is a single player and a co-op third person shooter, where you can play a solo survival level, wher you fight zombies (the green
-circles), and as you grab more booster cubes (the yello cubes), the more powerful you become, in terms of faster gun fire, more 
+circles), and as you grab more booster cubes (the red, blue, and yellow cubes), the more powerful you become, in terms of faster gun fire, more 
 health or more speed, or, you can play along with a friend, and fight zombies, and at the end, you are directed to the scoring 
 screen, where you have to press the "show" button to reveal the scores.
 
