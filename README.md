@@ -3,9 +3,8 @@ The latest version is : game_GDWC
 
 This repository contains "poly wars", a game made by "Yusuf El-Nady", mainly for the GDWC.
 
-poly wars is a single player and a co-op third person shooter, where you can play a solo survival level, where you fight zombies (the green circles), and as you grab more booster cubes (the red, blue, and yellow cubes), the more powerful you become, in terms of faster gun fire, more 
-health or more speed, or, you can play against a friend, or with him\her and fight zombies, and at the end, you are directed to the scoring 
-screen to see the scores.
+poly wars is a simple third person shooter, where you can play a solo survival level, where you fight zombies (the green circles), and as you grab more booster cubes (the red, blue, and yellow cubes), the more powerful you become, in terms of faster gun fire, more 
+health or more speed, or, you can play against a friend, or with him\her and fight zombies, and at the end, you are directed to the scoring screen to see the scores.
 
 Evenmore, you can customize your player, and choose one of he characters, Circle McPi , square wright or his twin rect (get it?),
 where each of them has special capalities, such that rect is a machine gunner which shoots quicker but weaker bullets and can block 
